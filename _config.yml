@@ -20,7 +20,7 @@ title                    : "개발새발"
 title_separator          : "-"
 subtitle                 : "" # 타이틀 아래에 나올 작은 글씨
 name                     : "박씨"
-description              : "레벨업 하고싶은 뉴비 개발자"
+description              : "레벨업하고 싶은 뉴비 개발자"
 url                      : "https://parkhanbeen.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "박씨"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "레벨업하고 싶은 뉴비 개발자"
   location         : "South Korea"
   email            : "phb0228@naver.com"
   links:
