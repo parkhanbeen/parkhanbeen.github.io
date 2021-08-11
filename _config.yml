@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "개발새발"
+title                    : "DEV-일기"
 title_separator          : "-"
 subtitle                 : "" # 타이틀 아래에 나올 작은 글씨
-name                     : "박씨"
-description              : "레벨업하고 싶은 뉴비 개발자"
+name                     : "Park hanbeen"
+description              : "뉴비 개발자"
 url                      : "https://parkhanbeen.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
